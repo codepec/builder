@@ -1,0 +1,65 @@
+{
+    "template1": [
+        "blue", "blue", "blue", "blue", "blue",
+        "blue", "green", "green", "green", "blue",
+        "blue", "green", "white", "green", "blue",
+        "blue", "green", "green", "green", "blue",
+        "blue", "blue", "blue", "blue", "blue"
+    ],
+    "template2": [
+        "white", "white", "white", "white", "white",
+        "white", "blue", "blue", "blue", "white",
+        "white", "blue", "green", "blue", "white",
+        "white", "blue", "blue", "blue", "white",
+        "white", "white", "white", "white", "white"
+    ],
+    "template3": [
+        "green", "green", "green", "green", "green",
+        "green", "white", "blue", "white", "green",
+        "green", "blue", "blue", "blue", "green",
+        "green", "white", "green", "white", "green",
+        "green", "green", "green", "green", "green"
+    ],
+    "template4": [
+        "yellow", "yellow", "yellow", "yellow", "yellow",
+        "yellow", "white", "blue", "white", "yellow",
+        "yellow", "blue", "blue", "blue", "yellow",
+        "yellow", "white", "yellow", "white", "yellow",
+        "yellow", "yellow", "yellow", "yellow", "yellow"
+    ],
+    "template5": [
+        "white", "green", "white", "green", "white",
+        "green", "white", "green", "white", "green",
+        "white", "green", "white", "green", "white",
+        "green", "white", "green", "white", "green",
+        "white", "green", "white", "green", "white"
+    ],
+    "template6": [
+        "yellow", "yellow", "yellow", "yellow", "yellow",
+        "white", "blue", "yellow", "blue", "white",
+        "yellow", "blue", "green", "blue", "yellow",
+        "yellow", "blue", "yellow", "blue", "yellow",
+        "yellow", "yellow", "yellow", "yellow", "yellow"
+    ],
+    "template7": [
+        "green", "white", "green", "white", "green",
+        "white", "yellow", "white", "yellow", "white",
+        "green", "white", "green", "white", "green",
+        "white", "yellow", "white", "yellow", "white",
+        "green", "white", "green", "white", "green"
+    ],
+    "template8": [
+        "blue", "blue", "white", "white", "yellow",
+        "green", "green", "blue", "blue", "white",
+        "white", "yellow", "green", "green", "blue",
+        "blue", "white", "white", "yellow", "green",
+        "green", "blue", "blue", "white", "white"
+    ],
+    "template9": [
+        "blue", "white", "white", "white", "white",
+        "white", "white", "white", "white", "white",
+        "white", "white", "white", "white", "white",
+        "white", "white", "white", "white", "white",
+        "white", "white", "white", "white", "white"
+    ]
+}
